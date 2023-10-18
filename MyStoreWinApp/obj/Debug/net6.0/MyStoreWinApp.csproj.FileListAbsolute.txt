@@ -1,0 +1,6 @@
+C:\Users\stew\Documents\.Net\Assignments\09_PhamXuanHieu_Assignments_01\MyStoreWinApp\obj\Debug\net6.0\frmLogin.Form1.resources
+C:\Users\stew\Documents\.Net\Assignments\09_PhamXuanHieu_Assignments_01\MyStoreWinApp\obj\Debug\net6.0\MyStoreWinApp.csproj.GenerateResource.cache
+C:\Users\stew\Documents\.Net\Assignments\09_PhamXuanHieu_Assignments_01\MyStoreWinApp\obj\Debug\net6.0\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stew\Documents\.Net\Assignments\09_PhamXuanHieu_Assignments_01\MyStoreWinApp\obj\Debug\net6.0\MyStoreWinApp.AssemblyInfoInputs.cache
+C:\Users\stew\Documents\.Net\Assignments\09_PhamXuanHieu_Assignments_01\MyStoreWinApp\obj\Debug\net6.0\MyStoreWinApp.AssemblyInfo.cs
+C:\Users\stew\Documents\.Net\Assignments\09_PhamXuanHieu_Assignments_01\MyStoreWinApp\obj\Debug\net6.0\MyStoreWinApp.csproj.CoreCompileInputs.cache
